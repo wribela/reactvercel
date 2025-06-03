@@ -17,7 +17,7 @@ function Home() {
         </Link>
     </div>
     <figure>
-      <img className='img-home' src="public/img1.svg" alt="Imagem da home" />
+      <img className='img-home' src="/img1.png" alt="Imagem da home" />
     </figure>
     </section>
       <Footer />
